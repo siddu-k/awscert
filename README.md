@@ -1,0 +1,1 @@
+=TEXTJOIN(", ",TRUE,A2:A111)
